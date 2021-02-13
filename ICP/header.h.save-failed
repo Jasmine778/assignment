@@ -1,0 +1,17 @@
+#define HEADER_H
+
+void doingSubscription();
+void claimProcessing ();
+void accountsInformation();
+void menu();
+void searchingFunctionalities1();
+void searchingFunctionalities2();
+void searchingFunctionalities3();
+void split(char details[][80], char * , char* );
+
+struct subscription{
+    char name[40],contact[15],address[100],history[1024];
+    int age,plan,plan2,roomFee1,roomFee2,claim,oriClaim;
+} subs[1000];
+
+#endif

@@ -1,0 +1,10 @@
+1	Omen	0199124121	Gerai Mara 4529 Jln Pasar 12000	SARS	20	3	1	200000	196000	2020	200	700
+2	Chia	0123141213	No. 106 Jln Bukit Bintang 55100 Kuala Lumpur Wilayah Persekutuan	Hepatitis A	20	1	2	600000	595200	2020	120	250
+3	Loo	01231245	Jalan Perdana 3/8, Taman Midah, 55300 , WPKL	Healthy	40	3	2	1000000	10000	2020	200	700
+4	Magnum	019912451	12, Jalan SL 5/10, 55200,  KL	Healthy	0	1	1	120000	120000	2020	120	250
+5	Jason	019124142	17, Jalan SL 10/4 , Taman SL , 55300 , KL	Healthy	30	3	1	200000	200000	2020	200	700
+6	Yi Cheng	019324234	12, Taman Zamai, Jaln hutang, 55600, Selangor	Healthy	19	2	1	150000	0	2020	150	400
+7	kett	0123124124	89, Taman zamai, jalan pasta , 55120, KL	Healthy	35	3	1	200000	200000	2020	200	700
+8	Goh	012345645	Jalan Haji Abdullah, Sungai Abong,54400, KL	Healthy	45	3	1	200000	200000	2020	200	700
+9	Lim	01249124	Bandar Mahkota Cheras, Cheras,55300,Selangor	Healthy	30	3	1	200000	200000	2020	200	700
+10	Zheng	01912414	11 Jln Kasawari 4 Taman Eng Ann	healthy	20	1	2	600000	597500	2020	120	250
