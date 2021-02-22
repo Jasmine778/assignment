@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1603823734 source:c:\users\yhdow\desktop\icp\assignment\icp\main.c
+	<stdio.h>
+	"header.h"
+
+1604302338 source:c:\users\yhdow\desktop\icp\assignment\icp\mainmenu.c
+	<stdio.h>
+	"header.h"
+
+1603699931 c:\users\yhdow\desktop\icp\assignment\icp\header.h
+
+1603631919 source:c:\users\yhdow\desktop\icp\assignment\icp\split.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	"header.h"
+
+1604308587 source:c:\users\yhdow\desktop\icp\assignment\icp\part 4.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"header.h"
+	"structheader.h"
+
+1604310914 source:c:\users\yhdow\desktop\icp\assignment\icp\part 1.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"header.h"
+	"structheader.h"
+
+1604312621 source:c:\users\yhdow\desktop\icp\assignment\icp\part 2.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	"header.h"
+	"structheader.h"
+
+1604312842 source:c:\users\yhdow\desktop\icp\assignment\icp\part 3.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"header.h"
+	"structheader.h"
+
+1604164934 c:\users\yhdow\desktop\icp\assignment\icp\structheader.h
+
+1603823734 source:c:\users\yhdow\desktop\2020\icp\assignment\icp\main.c
+	<stdio.h>
+	"header.h"
+
+1603699931 c:\users\yhdow\desktop\2020\icp\assignment\icp\header.h
+
+1604302338 source:c:\users\yhdow\desktop\2020\icp\assignment\icp\mainmenu.c
+	<stdio.h>
+	"header.h"
+
+1604310914 source:c:\users\yhdow\desktop\2020\icp\assignment\icp\part 1.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"header.h"
+	"structheader.h"
+
+1604164934 c:\users\yhdow\desktop\2020\icp\assignment\icp\structheader.h
+
+1604312621 source:c:\users\yhdow\desktop\2020\icp\assignment\icp\part 2.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	"header.h"
+	"structheader.h"
+
+1604312842 source:c:\users\yhdow\desktop\2020\icp\assignment\icp\part 3.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"header.h"
+	"structheader.h"
+
+1604308587 source:c:\users\yhdow\desktop\2020\icp\assignment\icp\part 4.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"header.h"
+	"structheader.h"
+
+1603631919 source:c:\users\yhdow\desktop\2020\icp\assignment\icp\split.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	"header.h"
+
